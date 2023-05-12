@@ -1,4 +1,4 @@
-# step
+# steps
 
 - `git clone https://github.com/dikidjatar/FB-Botkomen`
 - `cd FB-Botkomen`
