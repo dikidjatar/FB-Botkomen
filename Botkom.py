@@ -16,6 +16,8 @@ def banner():
 [bold yellow]88"""  Yb   dP  88   88 88   Yb   dP 88   88    88
 [bold green]88  Yb Yb   dP  88   88  88  Yb   dP 88         88
 8bodP   YbodP   88   88   88  YbodP  88         88
+
+                CREATED BY: DIKIDJATAR
 ''', style="bold white", width=55))
 # clear layar
 def clear_layar():
